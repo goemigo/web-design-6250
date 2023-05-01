@@ -1,6 +1,6 @@
-# INFO6150 - UX Engineering
+# web-design-6250
 
-This repository is how you will receive and submit your assignments and projects.
+This is the backup repository for INFO6250 Web Design course.
 
 Key parts:
 
@@ -15,4 +15,4 @@ Key parts:
 - [project1/](project1/), [project2/](project2/), [final/](final/) - These will appear for the various projects and are where you get and submit those projects
 
 
-# web-design-6250
+
